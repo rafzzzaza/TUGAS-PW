@@ -55,6 +55,18 @@ Proyek ini dikembangkan dan dikelola bersama oleh:
 
 </div>
 
+**ADA PUN KELOMPOK KAMI YANG TIDAK MEMILIKI GITHUB**
+
+**MY TEAMS**
+
+1. Rafa
+2. Rifqy
+3. Syifa
+4. M Diky
+5. Vianti
+
+**NOTES**
+
 **Commits di perubahan kenapa cuman rafzzzaza yang mengubah codenya?** karena kita memakai **Live share** yang ngoding bareng bareng secara live soalnya ini hanya membuat 1 landing page.
 
 ---
@@ -64,3 +76,7 @@ Proyek ini dikembangkan dan dikelola bersama oleh:
 1. **Clone repository ini**
    ```bash
    git clone [https://github.com/rafzzzaza/TUGAS-PW.git](https://github.com/rafzzzaza/TUGAS-PW.git)
+   ```
+2. **Run project**
+
+      Jalankan Project ini dengan membuka **Index.html** atau menggunakan **Live server**
