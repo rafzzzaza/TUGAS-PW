@@ -50,8 +50,8 @@ Proyek ini dikembangkan dan dikelola bersama oleh:
 | Foto | Nama | Peran | GitHub |
 | :---: | :--- | :--- | :---: |
 | <img src="https://github.com/rafzzzaza.png" width="50px" style="border-radius: 50%;"> | **Rafa Dhiyayi Haq** | Lead Developer | [@rafzzzaza](https://github.com/rafzzzaza) |
-| <img src="https://github.com/rifqyalfarizy6-cmyk.png" width="50px" style="border-radius: 50%;"> | **RipiLunce** | Team | [@rifqialfarizy6-cmyk](https://github.com/rifqialfarizy6-cmyk) |
-| <img src="https://github.com/vct-venlix.png" width="50px" style="border-radius: 50%;"> | **Vinns** | Team | [@vct-venlix](https://github.com/vct-venlix) |
+| <img src="https://github.com/rifqyalfarizy6-cmyk.png" width="50px" style="border-radius: 50%;"> | **Rifqy** | Team | [@rifqialfarizy6-cmyk](https://github.com/rifqialfarizy6-cmyk) |
+| <img src="https://github.com/vct-venlix.png" width="50px" style="border-radius: 50%;"> | **Vianti** | Team | [@vct-venlix](https://github.com/vct-venlix) |
 
 </div>
 
