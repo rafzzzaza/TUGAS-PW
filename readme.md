@@ -55,6 +55,8 @@ Proyek ini dikembangkan dan dikelola bersama oleh:
 
 </div>
 
+**Commits di perubahan kenapa cuman rafzzzaza yang mengubah codenya?** karena kita memakai **Live share** yang ngoding bareng bareng secara live soalnya ini hanya membuat 1 landing page.
+
 ---
 
 ## 🚀 Cara Menjalankan Proyek
