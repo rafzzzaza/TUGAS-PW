@@ -1,0 +1,69 @@
+<div align="center">
+
+  <h1>🚗 Cars Dealer & Genetic Wear</h1>
+  <p><b>Website Company Profile Modern, Responsif, dan Interaktif</b></p>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/rafzzzaza/TUGAS-PW/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/rafzzzaza/TUGAS-PW?color=7000ff&style=for-the-badge" alt="Contributors" />
+    </a>
+    <a href="https://github.com/rafzzzaza/TUGAS-PW/stargazers">
+      <img src="https://img.shields.io/github/stars/rafzzzaza/TUGAS-PW?color=00f2fe&style=for-the-badge" alt="Stars" />
+    </a>
+    <a href="https://github.com/rafzzzaza/TUGAS-PW/network/members">
+      <img src="https://img.shields.io/github/forks/rafzzzaza/TUGAS-PW?color=4facfe&style=for-the-badge" alt="Forks" />
+    </a>
+  </p>
+
+  <br />
+
+</div>
+
+---
+
+## 📌 Tentang Proyek
+
+**TUGAS-PW** Ini Repo dari tugas 
+
+### ✨ Fitur Utama
+* 🎨 **Modern & Aesthetic Layout** – Desain gelap (*dark theme*) yang clean dengan efek pencahayaan studio.
+* 🧭 **Sticky & Transparent Navbar** – Navigation bar interaktif yang rapi dan responsif.
+* 📱 **Fully Responsive** – Disesuaikan untuk tampilan berbagai ukuran layar.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+<div align="center">
+
+| Teknologi | Fungsi |
+| :--- | :--- |
+| **HTML5** | Struktur konten dan hirarki elemen web |
+| **CSS3** | Styling layout, Flexbox, animasi, dan warna |
+
+</div>
+
+---
+
+## 👥 Kontributor
+
+Proyek ini dikembangkan dan dikelola bersama oleh:
+
+<div align="center">
+
+| Foto | Nama | Peran | GitHub |
+| :---: | :--- | :--- | :---: |
+| <img src="https://github.com/rafzzzaza.png" width="50px" style="border-radius: 50%;"> | **Rafa Dhiyayi Haq** | Lead Developer | [@rafzzzaza](https://github.com/rafzzzaza) |
+| <img src="https://github.com/rifqialfarizy6-cmyk.png" width="50px" style="border-radius: 50%;"> | **RipiLunce** | Collaborator | [@rifqialfarizy6-cmyk](https://github.com/rifqialfarizy6-cmyk) |
+| <img src="https://github.com/vct-venlix.png" width="50px" style="border-radius: 50%;"> | **Vinns** | Collaborator | [@vct-venlix](https://github.com/vct-venlix) |
+
+</div>
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+1. **Clone repository ini**
+   ```bash
+   git clone [https://github.com/rafzzzaza/TUGAS-PW.git](https://github.com/rafzzzaza/TUGAS-PW.git)
