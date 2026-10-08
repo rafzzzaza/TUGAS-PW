@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>🚗 Cars Dealer & Genetic Wear</h1>
-  <p><b>Website Company Profile Modern, Responsif, dan Interaktif</b></p>
+  <h1>🚗 Cars Dealer seperti Genetic Wear </h1>
+  <p><b>Tugas Kelas X Pwmprograman Web</b></p>
 
   <!-- Badges -->
   <p>
@@ -24,12 +24,7 @@
 
 ## 📌 Tentang Proyek
 
-**TUGAS-PW** Ini Repo dari tugas 
-
-### ✨ Fitur Utama
-* 🎨 **Modern & Aesthetic Layout** – Desain gelap (*dark theme*) yang clean dengan efek pencahayaan studio.
-* 🧭 **Sticky & Transparent Navbar** – Navigation bar interaktif yang rapi dan responsif.
-* 📱 **Fully Responsive** – Disesuaikan untuk tampilan berbagai ukuran layar.
+**TUGAS-PW** Tugas latihan/pembuatan web seperti https://geneticwear.id/ Kelas X 
 
 ---
 
@@ -55,7 +50,7 @@ Proyek ini dikembangkan dan dikelola bersama oleh:
 | Foto | Nama | Peran | GitHub |
 | :---: | :--- | :--- | :---: |
 | <img src="https://github.com/rafzzzaza.png" width="50px" style="border-radius: 50%;"> | **Rafa Dhiyayi Haq** | Lead Developer | [@rafzzzaza](https://github.com/rafzzzaza) |
-| <img src="https://github.com/rifqialfarizy6-cmyk.png" width="50px" style="border-radius: 50%;"> | **RipiLunce** | Collaborator | [@rifqialfarizy6-cmyk](https://github.com/rifqialfarizy6-cmyk) |
+| <img src="https://github.com/rifqyalfarizy6-cmyk.png" width="50px" style="border-radius: 50%;"> | **RipiLunce** | Collaborator | [@rifqialfarizy6-cmyk](https://github.com/rifqialfarizy6-cmyk) |
 | <img src="https://github.com/vct-venlix.png" width="50px" style="border-radius: 50%;"> | **Vinns** | Collaborator | [@vct-venlix](https://github.com/vct-venlix) |
 
 </div>
