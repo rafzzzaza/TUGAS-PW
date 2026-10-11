@@ -358,3 +358,73 @@ html, body {
             }
         }
 /* End Gallery Section Rifqy */
+
+/* Bagian prosedur Vianti */
+.step-section {
+    background-color: #1a1a1a;
+    padding: 60px 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.step-title {
+    color: #ff4d6d; 
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+
+.step-box {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.step-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    margin-bottom: 40px; 
+}
+
+.step-item.reverse {
+    flex-direction: row-reverse;
+}
+
+.step-text {
+    flex: 1;
+}
+
+.step-text h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #ffffff;
+}
+
+.step-text p {
+    color: #cccccc;
+}
+
+.step-num {
+    font-size: 60px;
+    font-weight: 800;
+    color: #ff758f;
+    margin-left: 20px; 
+}
+
+/* Jarak angka kalau posisinya kebalik di kiri */
+.step-item.reverse .step-num {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.step-line {
+    width: 80px;
+    height: 1px;
+    background-color: #333333;
+    margin: 40px auto;
+}
+/* End Bagian Prosedur Vianti */
