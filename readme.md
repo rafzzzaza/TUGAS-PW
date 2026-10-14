@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>🚗 Cars Dealer seperti Genetic Wear </h1>
-  <p><b>Tugas Kelas X Pwmprograman Web</b></p>
+  <p><b>Tugas Kelas X Pemprograman Web</b></p>
 
   <!-- Badges -->
   <p>
