@@ -74,7 +74,7 @@ html, body {
     margin-left: 10px;
 }
 .navbar a:hover{
-    color: #00f2fe;
+    color: purple;
 }
 
 .hamburger {
@@ -193,16 +193,99 @@ html, body {
 /* End Hero Styles */
 
 /* Team Section Styles Bagian Mas Diky */
-.team_section {
-    width: 100%;
-    height: 50vh;
-    background-color: #222322;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 30px;
-    padding: 40px 0;
-}
+ .team-section {
+            background-color: #0d0d0d; 
+            padding: 80px 20px;
+        }
+
+        .services-section {
+            background-color: #151515; 
+            padding: 80px 20px 100px 20px;
+            border-top: 1px solid #222;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .section-header h2 {
+            font-size: clamp(2rem, 4vw, 2.5rem);
+            color: #ffffff;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .section-header p {
+            color: #888;
+            font-size: 1rem;
+            font-weight: 300;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        
+        .accent-line.center {
+            margin: 0 auto 20px auto;
+        }
+        
+        
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .team-card {
+            background-color: #1a1a1a;
+            border-radius: 12px;
+            padding: 30px 20px;
+            text-align: center;
+            border: 1px solid #2a2a2a;
+            transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+
+        .team-card:hover {
+            transform: translateY(-5px);
+            border-color: purple; 
+        }
+
+        .team-img-wrapper {
+            width: 120px;
+            height: 120px;
+            margin: 0 auto 20px auto;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 3px solid #333;
+            transition: border-color 0.3s ease;
+        }
+
+        .team-card:hover .team-img-wrapper {
+            border-color: purple;
+        }
+
+        .team-img-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .team-card h3 {
+            color: #ffffff;
+            font-size: 1.2rem;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .team-card .role {
+            color: purple; 
+            font-size: 0.85rem;
+            font-weight: 500;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
 
 
 
